@@ -1,0 +1,2130 @@
+[
+ {
+  "id": "00_inicio",
+  "nivel": "Comece aqui",
+  "titulo": "Boas-vindas e o método",
+  "titulo_en": "Welcome and the method",
+  "explicacao": "Olá! Seja bem-vindo ao Inglês Acessível, um curso de inglês para o trabalho, feito para ser ouvido e pensado para pessoas com deficiência visual. É gratuito e de código aberto. Foi criado por Marlon Myaggy, desenvolvedor Full Stack. Aqui você aprende inglês do jeito que uma criança aprende a falar. A criança não estuda gramática. Ela ouve os pais muitas vezes, repete, erra, repete de novo, e um dia sai falando. Aqui é igual. Funciona assim. Você ouve uma frase em inglês, devagar. Depois ouve o que ela quer dizer em português. Depois ouve de novo, na velocidade normal. Então toca um bipe. Quando ouvir o bipe, fale a frase em voz alta, no silêncio que vem depois. Mesmo que saia errado. Mesmo que você não lembre tudo. O importante é falar. Falar em voz alta grava muito mais do que só ouvir. Cada aula tem frases do dia a dia de uma empresa, uma conversa de verdade com duas vozes, e revisões. O curso vai do básico ao avançado: apresentações, reuniões, chamadas com clientes, apresentação de projetos, negociação e entrevista de emprego. Você não precisa tocar na tela. Coloque o fone e ouça. As aulas tocam uma depois da outra e, no fim, tudo recomeça. Funciona com a tela apagada. No fim de cada nível toca a imersão: só inglês, sem tradução, para treinar o ouvido como a criança que ouve a família. E depois do nível avançado vem o desafio: você ouve a frase em português e tenta falar em inglês antes da resposta. Um conselho: ouça cada aula vários dias seguidos. Quando ela ficar fácil, siga em frente. Pode ouvir no ônibus, no trabalho ou antes de dormir. Vamos começar.",
+  "frases": [
+   [
+    "Hello!",
+    "Olá!"
+   ],
+   [
+    "Let's start.",
+    "Vamos começar."
+   ],
+   [
+    "Listen and repeat.",
+    "Ouça e repita."
+   ]
+  ],
+  "conversa": []
+ },
+ {
+  "id": "a01",
+  "nivel": "Básico",
+  "titulo": "Aula 1 — Apresentações",
+  "titulo_en": "Lesson 1 — Introductions",
+  "explicacao": "Nesta aula você aprende a se apresentar no trabalho. Dica de pronúncia: em inglês, o som de {I'm} parece com áime. Não precisa entender tudo de primeira. A criança também não entende. Ela só repete.",
+  "frases": [
+   [
+    "Hi, I'm Marlon.",
+    "Oi, eu sou o Marlon."
+   ],
+   [
+    "Nice to meet you.",
+    "Prazer em conhecer você."
+   ],
+   [
+    "Nice to meet you too.",
+    "O prazer é meu também."
+   ],
+   [
+    "I'm a Full Stack developer.",
+    "Sou desenvolvedor Full Stack."
+   ],
+   [
+    "I'm from Brazil.",
+    "Sou do Brasil."
+   ],
+   [
+    "I live in Minas Gerais.",
+    "Moro em Minas Gerais."
+   ],
+   [
+    "Let me introduce myself.",
+    "Deixe-me me apresentar."
+   ],
+   [
+    "This is my colleague, Anna.",
+    "Esta é minha colega, Anna."
+   ],
+   [
+    "She's our project manager.",
+    "Ela é nossa gerente de projetos."
+   ],
+   [
+    "What do you do?",
+    "O que você faz no trabalho?"
+   ],
+   [
+    "How long have you been with the company?",
+    "Há quanto tempo você está na empresa?"
+   ],
+   [
+    "I've been here for two years.",
+    "Estou aqui há dois anos."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Hi, I'm Marlon. I'm the new developer.",
+    "Oi, sou o Marlon. Sou o novo desenvolvedor."
+   ],
+   [
+    "b",
+    "Hi Marlon, I'm Sarah. Welcome to the team!",
+    "Oi Marlon, sou a Sarah. Bem-vindo à equipe!"
+   ],
+   [
+    "a",
+    "Thank you. Nice to meet you.",
+    "Obrigado. Prazer em conhecer você."
+   ],
+   [
+    "b",
+    "Nice to meet you too. Where are you from?",
+    "O prazer é meu. De onde você é?"
+   ],
+   [
+    "a",
+    "I'm from Brazil. I live in Minas Gerais.",
+    "Sou do Brasil. Moro em Minas Gerais."
+   ],
+   [
+    "b",
+    "Great! Let me introduce you to the rest of the team.",
+    "Ótimo! Deixe-me te apresentar ao resto da equipe."
+   ]
+  ]
+ },
+ {
+  "id": "a02",
+  "nivel": "Básico",
+  "titulo": "Aula 2 — Cumprimentos e conversa rápida",
+  "titulo_en": "Lesson 2 — Greetings and small talk",
+  "explicacao": "Antes de toda reunião, as pessoas conversam um pouquinho. Em inglês isso se chama {small talk}. É rápido e simpático. Se alguém perguntar {how are you}, responda curto e devolva a pergunta.",
+  "frases": [
+   [
+    "Good morning, everyone.",
+    "Bom dia a todos."
+   ],
+   [
+    "How are you doing?",
+    "Como você está?"
+   ],
+   [
+    "I'm doing well, thanks. And you?",
+    "Estou bem, obrigado. E você?"
+   ],
+   [
+    "How was your weekend?",
+    "Como foi seu fim de semana?"
+   ],
+   [
+    "It was great, thanks for asking.",
+    "Foi ótimo, obrigado por perguntar."
+   ],
+   [
+    "How's everything going?",
+    "Como estão as coisas?"
+   ],
+   [
+    "Pretty busy, but good.",
+    "Bem corrido, mas tudo bem."
+   ],
+   [
+    "Can I get you a coffee?",
+    "Posso te trazer um café?"
+   ],
+   [
+    "Have a nice day.",
+    "Tenha um bom dia."
+   ],
+   [
+    "See you tomorrow.",
+    "Até amanhã."
+   ],
+   [
+    "Talk to you later.",
+    "Falo com você mais tarde."
+   ],
+   [
+    "Take care.",
+    "Se cuida."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Good morning, Sarah. How are you doing?",
+    "Bom dia, Sarah. Como você está?"
+   ],
+   [
+    "b",
+    "I'm doing well, thanks. How was your weekend?",
+    "Estou bem, obrigada. Como foi seu fim de semana?"
+   ],
+   [
+    "a",
+    "It was great. I rested and spent time with my family.",
+    "Foi ótimo. Descansei e passei tempo com minha família."
+   ],
+   [
+    "b",
+    "Nice! Pretty busy week ahead, right?",
+    "Legal! Semana bem corrida pela frente, né?"
+   ],
+   [
+    "a",
+    "Yes, we have the client meeting on Wednesday.",
+    "Sim, temos a reunião com o cliente na quarta."
+   ],
+   [
+    "b",
+    "Okay. Talk to you later.",
+    "Ok. Falo com você mais tarde."
+   ]
+  ]
+ },
+ {
+  "id": "a03",
+  "nivel": "Básico",
+  "titulo": "Aula 3 — Sua função e sua empresa",
+  "titulo_en": "Lesson 3 — Your role and your company",
+  "explicacao": "Agora você vai aprender a dizer o que faz e onde trabalha. A palavra {role} quer dizer função, cargo. {Report to} quer dizer responder a alguém, ou seja, quem é o seu chefe.",
+  "frases": [
+   [
+    "What's your role here?",
+    "Qual é a sua função aqui?"
+   ],
+   [
+    "I'm responsible for the mobile app.",
+    "Sou responsável pelo aplicativo móvel."
+   ],
+   [
+    "I work on the back end and the front end.",
+    "Trabalho no back-end e no front-end."
+   ],
+   [
+    "I'm in charge of safety on the night shift.",
+    "Sou responsável pela segurança no turno da noite."
+   ],
+   [
+    "I report to the IT manager.",
+    "Respondo ao gerente de TI."
+   ],
+   [
+    "Our company provides logistics services.",
+    "Nossa empresa presta serviços de logística."
+   ],
+   [
+    "Our main client is a mining company.",
+    "Nosso principal cliente é uma mineradora."
+   ],
+   [
+    "I'm part of a small team.",
+    "Faço parte de uma equipe pequena."
+   ],
+   [
+    "My team has five people.",
+    "Minha equipe tem cinco pessoas."
+   ],
+   [
+    "I mainly work with JavaScript and Python.",
+    "Trabalho principalmente com JavaScript e Python."
+   ],
+   [
+    "I enjoy solving problems.",
+    "Gosto de resolver problemas."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "So, what's your role here?",
+    "Então, qual é a sua função aqui?"
+   ],
+   [
+    "a",
+    "I'm a developer. I work on the back end and the front end.",
+    "Sou desenvolvedor. Trabalho no back-end e no front-end."
+   ],
+   [
+    "b",
+    "Who do you report to?",
+    "Para quem você responde?"
+   ],
+   [
+    "a",
+    "I report to the IT manager, Paul.",
+    "Respondo ao gerente de TI, o Paul."
+   ],
+   [
+    "b",
+    "And what are you working on right now?",
+    "E no que você está trabalhando agora?"
+   ],
+   [
+    "a",
+    "I'm building a safety app for our main client.",
+    "Estou construindo um app de segurança para nosso principal cliente."
+   ]
+  ]
+ },
+ {
+  "id": "a04",
+  "nivel": "Básico",
+  "titulo": "Aula 4 — Números, datas e horários",
+  "titulo_en": "Lesson 4 — Numbers, dates and times",
+  "explicacao": "No trabalho, números aparecem o tempo todo: horários, prazos, preços. Dica: {a.m.} é antes do meio-dia e {p.m.} é depois do meio-dia. E as datas usam ordinal: {eighteenth}, dezoito.",
+  "frases": [
+   [
+    "What time is it?",
+    "Que horas são?"
+   ],
+   [
+    "It's nine thirty.",
+    "São nove e meia."
+   ],
+   [
+    "The meeting is at two p.m.",
+    "A reunião é às duas da tarde."
+   ],
+   [
+    "What's the date today?",
+    "Qual é a data de hoje?"
+   ],
+   [
+    "Today is November eighteenth.",
+    "Hoje é dezoito de novembro."
+   ],
+   [
+    "The deadline is next Friday.",
+    "O prazo é na próxima sexta-feira."
+   ],
+   [
+    "It costs fifteen hundred dollars.",
+    "Custa mil e quinhentos dólares."
+   ],
+   [
+    "We have about two hundred employees.",
+    "Temos cerca de duzentos funcionários."
+   ],
+   [
+    "Sales went up by ten percent.",
+    "As vendas subiram dez por cento."
+   ],
+   [
+    "In the first quarter.",
+    "No primeiro trimestre."
+   ],
+   [
+    "What time zone are you in?",
+    "Em qual fuso horário você está?"
+   ],
+   [
+    "I'm in Brazil, on São Paulo time.",
+    "Estou no Brasil, no horário de São Paulo."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "When is the deadline?",
+    "Quando é o prazo?"
+   ],
+   [
+    "b",
+    "The deadline is next Friday, November twenty-seventh.",
+    "O prazo é na próxima sexta, vinte e sete de novembro."
+   ],
+   [
+    "a",
+    "And what time is the review meeting?",
+    "E a que horas é a reunião de revisão?"
+   ],
+   [
+    "b",
+    "It's on Thursday at three p.m., New York time.",
+    "É na quinta às três da tarde, horário de Nova York."
+   ],
+   [
+    "a",
+    "Okay, that's five p.m. for me.",
+    "Ok, isso dá cinco da tarde para mim."
+   ],
+   [
+    "b",
+    "Perfect. See you then.",
+    "Perfeito. Até lá."
+   ]
+  ]
+ },
+ {
+  "id": "a05",
+  "nivel": "Básico",
+  "titulo": "Aula 5 — Marcando reuniões",
+  "titulo_en": "Lesson 5 — Scheduling meetings",
+  "explicacao": "Marcar e remarcar reuniões é uma das coisas que você mais vai fazer. Guarde três frases mágicas: {Does Tuesday work for you}, que é terça funciona para você. {Can we reschedule}, que é podemos remarcar. E {I'll send you a calendar invite}, vou te mandar um convite.",
+  "frases": [
+   [
+    "Are you available on Monday?",
+    "Você está disponível na segunda?"
+   ],
+   [
+    "Does Tuesday work for you?",
+    "Terça funciona para você?"
+   ],
+   [
+    "How about Wednesday morning?",
+    "Que tal quarta de manhã?"
+   ],
+   [
+    "I'm free after lunch.",
+    "Estou livre depois do almoço."
+   ],
+   [
+    "I'm afraid I can't make it.",
+    "Infelizmente não vou conseguir."
+   ],
+   [
+    "Can we reschedule?",
+    "Podemos remarcar?"
+   ],
+   [
+    "Let's move it to Thursday.",
+    "Vamos passar para quinta."
+   ],
+   [
+    "I'll send you a calendar invite.",
+    "Vou te mandar um convite na agenda."
+   ],
+   [
+    "Let's book thirty minutes.",
+    "Vamos reservar trinta minutos."
+   ],
+   [
+    "What's the agenda?",
+    "Qual é a pauta?"
+   ],
+   [
+    "Sorry, something came up.",
+    "Desculpe, surgiu um imprevisto."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Hi Emma, are you available on Monday for a quick call?",
+    "Oi Emma, você está disponível na segunda para uma chamada rápida?"
+   ],
+   [
+    "b",
+    "I'm afraid I can't make it on Monday. Does Tuesday work for you?",
+    "Infelizmente não consigo na segunda. Terça funciona para você?"
+   ],
+   [
+    "a",
+    "Tuesday works. How about ten a.m.?",
+    "Terça funciona. Que tal às dez da manhã?"
+   ],
+   [
+    "b",
+    "Ten is perfect. What's the agenda?",
+    "Dez está perfeito. Qual é a pauta?"
+   ],
+   [
+    "a",
+    "We'll review the project timeline.",
+    "Vamos revisar o cronograma do projeto."
+   ],
+   [
+    "b",
+    "Great. Send me a calendar invite.",
+    "Ótimo. Me mande um convite na agenda."
+   ]
+  ]
+ },
+ {
+  "id": "a06",
+  "nivel": "Básico",
+  "titulo": "Aula 6 — Pedindo para repetir e confirmando",
+  "titulo_en": "Lesson 6 — Asking for clarification",
+  "explicacao": "Esta é a aula mais importante para quem está começando. Ninguém entende tudo. Nem os nativos. Pedir para repetir é normal e profissional. Com estas frases, você nunca fica perdido numa conversa.",
+  "frases": [
+   [
+    "Sorry, could you repeat that?",
+    "Desculpe, pode repetir?"
+   ],
+   [
+    "Could you speak a little slower, please?",
+    "Pode falar um pouco mais devagar, por favor?"
+   ],
+   [
+    "What do you mean by that?",
+    "O que você quer dizer com isso?"
+   ],
+   [
+    "Just to make sure I understand...",
+    "Só para garantir que entendi..."
+   ],
+   [
+    "So you're saying that...",
+    "Então você está dizendo que..."
+   ],
+   [
+    "Could you give me an example?",
+    "Pode me dar um exemplo?"
+   ],
+   [
+    "How do you spell that?",
+    "Como se soletra isso?"
+   ],
+   [
+    "I didn't catch the last part.",
+    "Não peguei a última parte."
+   ],
+   [
+    "Can you help me with this?",
+    "Pode me ajudar com isso?"
+   ],
+   [
+    "Let me check and get back to you.",
+    "Deixe-me verificar e te dou um retorno."
+   ],
+   [
+    "That makes sense.",
+    "Faz sentido."
+   ],
+   [
+    "Got it, thanks.",
+    "Entendi, obrigado."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "We need the API ready before the sprint review.",
+    "Precisamos da API pronta antes da revisão da sprint."
+   ],
+   [
+    "a",
+    "Sorry, I didn't catch the last part. Before the what?",
+    "Desculpe, não peguei a última parte. Antes do quê?"
+   ],
+   [
+    "b",
+    "Before the sprint review, on Friday.",
+    "Antes da revisão da sprint, na sexta."
+   ],
+   [
+    "a",
+    "Got it. Just to make sure I understand, you need all the endpoints?",
+    "Entendi. Só para garantir, você precisa de todos os endpoints?"
+   ],
+   [
+    "b",
+    "Not all of them. Just the login and the reports.",
+    "Não todos. Só o login e os relatórios."
+   ],
+   [
+    "a",
+    "That makes sense. Let me check and get back to you today.",
+    "Faz sentido. Deixe-me verificar e te dou retorno hoje."
+   ]
+  ]
+ },
+ {
+  "id": "a07",
+  "nivel": "Básico",
+  "titulo": "Aula 7 — Chamadas de vídeo e telefone",
+  "titulo_en": "Lesson 7 — Video calls and phone calls",
+  "explicacao": "Hoje quase toda reunião é por vídeo. E sempre acontece alguma coisa: alguém no mudo, internet cortando, tela que não aparece. Aqui estão as frases para esses momentos.",
+  "frases": [
+   [
+    "Can you hear me?",
+    "Você está me ouvindo?"
+   ],
+   [
+    "I can hear you, but I can't see you.",
+    "Te ouço, mas não te vejo."
+   ],
+   [
+    "You're on mute.",
+    "Você está no mudo."
+   ],
+   [
+    "Sorry, I was on mute.",
+    "Desculpe, eu estava no mudo."
+   ],
+   [
+    "Your audio is breaking up.",
+    "Seu áudio está cortando."
+   ],
+   [
+    "My connection is unstable.",
+    "Minha conexão está instável."
+   ],
+   [
+    "Let me share my screen.",
+    "Deixe-me compartilhar minha tela."
+   ],
+   [
+    "Can you see my screen?",
+    "Você consegue ver minha tela?"
+   ],
+   [
+    "I'll call you back in five minutes.",
+    "Te ligo de volta em cinco minutos."
+   ],
+   [
+    "Who am I speaking with?",
+    "Com quem eu falo?"
+   ],
+   [
+    "Thanks for calling.",
+    "Obrigado por ligar."
+   ],
+   [
+    "Let's wait a minute for the others to join.",
+    "Vamos esperar um minuto para os outros entrarem."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Hi Lisa, can you hear me?",
+    "Oi Lisa, você está me ouvindo?"
+   ],
+   [
+    "b",
+    "Sorry, I was on mute. Yes, I can hear you now.",
+    "Desculpe, eu estava no mudo. Sim, te ouço agora."
+   ],
+   [
+    "a",
+    "Great. Let me share my screen. Can you see it?",
+    "Ótimo. Deixe-me compartilhar minha tela. Consegue ver?"
+   ],
+   [
+    "b",
+    "Yes, I can see it. But your audio is breaking up a little.",
+    "Sim, consigo ver. Mas seu áudio está cortando um pouco."
+   ],
+   [
+    "a",
+    "Sorry, my connection is unstable. Is it better now?",
+    "Desculpe, minha conexão está instável. Melhorou?"
+   ],
+   [
+    "b",
+    "Much better, thanks.",
+    "Bem melhor, obrigada."
+   ]
+  ]
+ },
+ {
+  "id": "a08",
+  "nivel": "Básico",
+  "titulo": "Aula 8 — Rotina e tarefas",
+  "titulo_en": "Lesson 8 — Daily routine and tasks",
+  "explicacao": "Nesta aula você fala do que faz, do que já fez e do que vai fazer. Repare: {I'm working} é agora. {I finished} é passado. {I'm going to} é futuro. {Already} quer dizer já, e {yet}, no fim da frase negativa, quer dizer ainda.",
+  "frases": [
+   [
+    "I start work at six p.m.",
+    "Começo a trabalhar às seis da tarde."
+   ],
+   [
+    "I work the night shift.",
+    "Trabalho no turno da noite."
+   ],
+   [
+    "First, I check my emails.",
+    "Primeiro, verifico meus e-mails."
+   ],
+   [
+    "Then I review the tasks for the day.",
+    "Depois reviso as tarefas do dia."
+   ],
+   [
+    "I'm working on a new feature.",
+    "Estou trabalhando numa nova funcionalidade."
+   ],
+   [
+    "I usually have a daily meeting.",
+    "Normalmente tenho uma reunião diária."
+   ],
+   [
+    "I finished the report yesterday.",
+    "Terminei o relatório ontem."
+   ],
+   [
+    "I'm going to test it tomorrow.",
+    "Vou testar amanhã."
+   ],
+   [
+    "I've already sent the file.",
+    "Já enviei o arquivo."
+   ],
+   [
+    "I haven't finished it yet.",
+    "Ainda não terminei."
+   ],
+   [
+    "It's on my to-do list.",
+    "Está na minha lista de tarefas."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "What are you working on today?",
+    "No que você está trabalhando hoje?"
+   ],
+   [
+    "a",
+    "I'm working on the login screen.",
+    "Estou trabalhando na tela de login."
+   ],
+   [
+    "b",
+    "Did you finish the report?",
+    "Você terminou o relatório?"
+   ],
+   [
+    "a",
+    "Yes, I finished it yesterday. I've already sent it to you.",
+    "Sim, terminei ontem. Já te enviei."
+   ],
+   [
+    "b",
+    "Great. And the tests?",
+    "Ótimo. E os testes?"
+   ],
+   [
+    "a",
+    "I haven't finished them yet. I'm going to finish them tomorrow.",
+    "Ainda não terminei. Vou terminar amanhã."
+   ]
+  ]
+ },
+ {
+  "id": "a09",
+  "nivel": "Intermediário",
+  "titulo": "Aula 9 — Abrindo e conduzindo uma reunião",
+  "titulo_en": "Lesson 9 — Running a meeting",
+  "explicacao": "Parabéns, você chegou ao nível intermediário. Agora você vai conduzir reuniões. Quem conduz abre, apresenta a pauta, passa a palavra, controla o tempo e fecha com um resumo. {To sum up} quer dizer resumindo.",
+  "frases": [
+   [
+    "Let's get started.",
+    "Vamos começar."
+   ],
+   [
+    "Thanks everyone for joining.",
+    "Obrigado a todos por participarem."
+   ],
+   [
+    "The purpose of this meeting is to review the project.",
+    "O objetivo desta reunião é revisar o projeto."
+   ],
+   [
+    "We have three items on the agenda.",
+    "Temos três itens na pauta."
+   ],
+   [
+    "Let's start with the first item.",
+    "Vamos começar pelo primeiro item."
+   ],
+   [
+    "Let's move on to the next point.",
+    "Vamos passar para o próximo ponto."
+   ],
+   [
+    "Does anyone have any questions?",
+    "Alguém tem alguma pergunta?"
+   ],
+   [
+    "I'd like to hear from Maria.",
+    "Gostaria de ouvir a Maria."
+   ],
+   [
+    "We're running out of time.",
+    "Nosso tempo está acabando."
+   ],
+   [
+    "Let's take this offline.",
+    "Vamos tratar disso fora da reunião."
+   ],
+   [
+    "To sum up, we agreed on two things.",
+    "Resumindo, combinamos duas coisas."
+   ],
+   [
+    "I'll send the meeting notes after the call.",
+    "Vou enviar a ata depois da chamada."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Okay, let's get started. Thanks everyone for joining.",
+    "Ok, vamos começar. Obrigado a todos por participarem."
+   ],
+   [
+    "a",
+    "The purpose of this meeting is to review the project status.",
+    "O objetivo desta reunião é revisar o status do projeto."
+   ],
+   [
+    "b",
+    "Sounds good. What's first on the agenda?",
+    "Parece bom. O que vem primeiro na pauta?"
+   ],
+   [
+    "a",
+    "Let's start with the budget. Then we'll move on to the timeline.",
+    "Vamos começar pelo orçamento. Depois passamos para o cronograma."
+   ],
+   [
+    "b",
+    "Can we add the testing plan to the agenda?",
+    "Podemos incluir o plano de testes na pauta?"
+   ],
+   [
+    "a",
+    "Sure, we'll cover it at the end. I'll send the notes after the call.",
+    "Claro, vamos tratar no final. Envio a ata depois da chamada."
+   ]
+  ]
+ },
+ {
+  "id": "a10",
+  "nivel": "Intermediário",
+  "titulo": "Aula 10 — Atualização de status",
+  "titulo_en": "Lesson 10 — Status updates",
+  "explicacao": "{Status update} é quando você conta como o trabalho está. A fórmula é simples: o que fiz, o que estou fazendo, o que vou fazer, e o que está me travando. {Blocker} é o que trava o trabalho. {On track} quer dizer dentro do prazo.",
+  "frases": [
+   [
+    "Here's a quick update.",
+    "Aqui vai uma atualização rápida."
+   ],
+   [
+    "We're on track.",
+    "Estamos dentro do prazo."
+   ],
+   [
+    "We're slightly behind schedule.",
+    "Estamos um pouco atrasados."
+   ],
+   [
+    "We're ahead of schedule.",
+    "Estamos adiantados."
+   ],
+   [
+    "We've completed eighty percent of the work.",
+    "Concluímos oitenta por cento do trabalho."
+   ],
+   [
+    "The main blocker is the server access.",
+    "O principal impedimento é o acesso ao servidor."
+   ],
+   [
+    "We're waiting for the client's approval.",
+    "Estamos aguardando a aprovação do cliente."
+   ],
+   [
+    "Last week, we delivered the first module.",
+    "Semana passada, entregamos o primeiro módulo."
+   ],
+   [
+    "This week, we're focusing on testing.",
+    "Esta semana, estamos focando nos testes."
+   ],
+   [
+    "Next week, we plan to go live.",
+    "Semana que vem, planejamos entrar em produção."
+   ],
+   [
+    "Everything is going according to plan.",
+    "Tudo está indo conforme o planejado."
+   ],
+   [
+    "I'll keep you posted.",
+    "Vou te mantendo informado."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "Marlon, can you give us a quick update?",
+    "Marlon, pode nos dar uma atualização rápida?"
+   ],
+   [
+    "a",
+    "Sure. Last week, we delivered the first module. We're on track.",
+    "Claro. Semana passada entregamos o primeiro módulo. Estamos no prazo."
+   ],
+   [
+    "b",
+    "Great. Any blockers?",
+    "Ótimo. Algum impedimento?"
+   ],
+   [
+    "a",
+    "Just one. We're waiting for the client's approval on the design.",
+    "Só um. Estamos aguardando a aprovação do cliente no design."
+   ],
+   [
+    "b",
+    "When do you plan to go live?",
+    "Quando vocês planejam entrar em produção?"
+   ],
+   [
+    "a",
+    "Next Friday, if we get the approval by Monday. I'll keep you posted.",
+    "Na próxima sexta, se tivermos a aprovação até segunda. Vou te mantendo informado."
+   ]
+  ]
+ },
+ {
+  "id": "a11",
+  "nivel": "Intermediário",
+  "titulo": "Aula 11 — Opinar, concordar e discordar",
+  "titulo_en": "Lesson 11 — Agreeing and disagreeing",
+  "explicacao": "Em empresas internacionais, discordar é normal, mas sempre com educação. O segredo é primeiro reconhecer a ideia do outro, com {I see what you mean}, e depois dar a sua, com {but}.",
+  "frases": [
+   [
+    "In my opinion, we should wait.",
+    "Na minha opinião, deveríamos esperar."
+   ],
+   [
+    "I think we should test it first.",
+    "Acho que deveríamos testar primeiro."
+   ],
+   [
+    "I agree with you.",
+    "Concordo com você."
+   ],
+   [
+    "That's a good point.",
+    "Esse é um bom ponto."
+   ],
+   [
+    "I see what you mean, but...",
+    "Entendo o que você quer dizer, mas..."
+   ],
+   [
+    "I'm not sure about that.",
+    "Não tenho certeza sobre isso."
+   ],
+   [
+    "I'd suggest a different approach.",
+    "Eu sugeriria uma abordagem diferente."
+   ],
+   [
+    "I respectfully disagree.",
+    "Discordo, com todo respeito."
+   ],
+   [
+    "Have you considered the costs?",
+    "Você já considerou os custos?"
+   ],
+   [
+    "What if we tried a simpler solution?",
+    "E se tentássemos uma solução mais simples?"
+   ],
+   [
+    "Let's find a middle ground.",
+    "Vamos encontrar um meio-termo."
+   ],
+   [
+    "Fair enough.",
+    "Justo, faz sentido."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "I think we should build everything from scratch.",
+    "Acho que deveríamos construir tudo do zero."
+   ],
+   [
+    "a",
+    "I see what you mean, but that could take months.",
+    "Entendo o que você quer dizer, mas isso pode levar meses."
+   ],
+   [
+    "b",
+    "That's a good point. What would you suggest?",
+    "Bom ponto. O que você sugere?"
+   ],
+   [
+    "a",
+    "I'd suggest using open-source tools that are already tested.",
+    "Eu sugeriria usar ferramentas de código aberto já testadas."
+   ],
+   [
+    "b",
+    "I'm not sure about that. What about security?",
+    "Não tenho certeza. E a segurança?"
+   ],
+   [
+    "a",
+    "Fair question. We can run a security review first. Let's find a middle ground.",
+    "Pergunta justa. Podemos fazer uma revisão de segurança antes. Vamos achar um meio-termo."
+   ]
+  ]
+ },
+ {
+  "id": "a12",
+  "nivel": "Intermediário",
+  "titulo": "Aula 12 — Problemas, riscos e soluções",
+  "titulo_en": "Lesson 12 — Problems, risks and solutions",
+  "explicacao": "Quando algo dá errado, o profissional fala com calma: o que aconteceu, qual a causa, o que já foi feito e como evitar de novo. {Root cause} é causa raiz. {Workaround} é uma solução temporária. Você, que é técnico em segurança, já conhece esse raciocínio.",
+  "frases": [
+   [
+    "We have an issue with the server.",
+    "Temos um problema com o servidor."
+   ],
+   [
+    "The system is down.",
+    "O sistema está fora do ar."
+   ],
+   [
+    "We found a bug in production.",
+    "Encontramos um bug em produção."
+   ],
+   [
+    "The root cause was a database update.",
+    "A causa raiz foi uma atualização do banco de dados."
+   ],
+   [
+    "We're working on a fix.",
+    "Estamos trabalhando numa correção."
+   ],
+   [
+    "It should be fixed by the end of the day.",
+    "Deve estar corrigido até o fim do dia."
+   ],
+   [
+    "There's a risk that we'll miss the deadline.",
+    "Há um risco de perdermos o prazo."
+   ],
+   [
+    "To prevent this from happening again, we'll add tests.",
+    "Para evitar que isso aconteça de novo, vamos adicionar testes."
+   ],
+   [
+    "We have a workaround.",
+    "Temos uma solução temporária."
+   ],
+   [
+    "The impact is low.",
+    "O impacto é baixo."
+   ],
+   [
+    "I take full responsibility.",
+    "Assumo total responsabilidade."
+   ],
+   [
+    "Here's what we're going to do.",
+    "Aqui está o que vamos fazer."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "I heard the system was down this morning. What happened?",
+    "Soube que o sistema caiu hoje cedo. O que aconteceu?"
+   ],
+   [
+    "a",
+    "It was down for about twenty minutes. The root cause was a database update.",
+    "Ficou fora uns vinte minutos. A causa raiz foi uma atualização do banco."
+   ],
+   [
+    "b",
+    "Is it working now?",
+    "Está funcionando agora?"
+   ],
+   [
+    "a",
+    "Yes. We have a workaround, and we're working on a permanent fix.",
+    "Sim. Temos uma solução temporária e estamos trabalhando na correção definitiva."
+   ],
+   [
+    "b",
+    "What's the impact for the client?",
+    "Qual o impacto para o cliente?"
+   ],
+   [
+    "a",
+    "The impact is low. To prevent this from happening again, we'll add automatic tests before every update.",
+    "O impacto é baixo. Para não acontecer de novo, vamos colocar testes automáticos antes de cada atualização."
+   ]
+  ]
+ },
+ {
+  "id": "a13",
+  "nivel": "Intermediário",
+  "titulo": "Aula 13 — Prazos e prioridades",
+  "titulo_en": "Lesson 13 — Deadlines and priorities",
+  "explicacao": "Nesta aula você aprende a negociar prazos sem parecer que está reclamando. {Tight deadline} é prazo apertado. A estratégia é: perguntar a prioridade e propor o que dá para entregar primeiro.",
+  "frases": [
+   [
+    "What's the priority?",
+    "Qual é a prioridade?"
+   ],
+   [
+    "This is our top priority.",
+    "Essa é nossa prioridade máxima."
+   ],
+   [
+    "It's urgent.",
+    "É urgente."
+   ],
+   [
+    "It can wait until next week.",
+    "Pode esperar até a semana que vem."
+   ],
+   [
+    "We need to prioritize.",
+    "Precisamos priorizar."
+   ],
+   [
+    "Can we extend the deadline?",
+    "Podemos estender o prazo?"
+   ],
+   [
+    "That's a tight deadline.",
+    "É um prazo apertado."
+   ],
+   [
+    "Is that deadline realistic?",
+    "Esse prazo é realista?"
+   ],
+   [
+    "We can deliver the core features first.",
+    "Podemos entregar as funcionalidades principais primeiro."
+   ],
+   [
+    "I'm a bit overloaded right now.",
+    "Estou um pouco sobrecarregado agora."
+   ],
+   [
+    "Which one should I focus on first?",
+    "Em qual devo focar primeiro?"
+   ],
+   [
+    "I can have it ready by Wednesday.",
+    "Consigo deixar pronto até quarta."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "We need the dashboard and the reports by Monday.",
+    "Precisamos do painel e dos relatórios até segunda."
+   ],
+   [
+    "a",
+    "That's a tight deadline. Which one should I focus on first?",
+    "É um prazo apertado. Em qual devo focar primeiro?"
+   ],
+   [
+    "b",
+    "The dashboard is our top priority.",
+    "O painel é nossa prioridade máxima."
+   ],
+   [
+    "a",
+    "Okay. I can have the dashboard ready by Monday. Can the reports wait until Wednesday?",
+    "Ok. Consigo o painel até segunda. Os relatórios podem esperar até quarta?"
+   ],
+   [
+    "b",
+    "Yes, that works.",
+    "Sim, funciona."
+   ],
+   [
+    "a",
+    "Great, then we're aligned.",
+    "Ótimo, então estamos alinhados."
+   ]
+  ]
+ },
+ {
+  "id": "a14",
+  "nivel": "Intermediário",
+  "titulo": "Aula 14 — Explicando algo técnico de forma simples",
+  "titulo_en": "Lesson 14 — Explaining technical things simply",
+  "explicacao": "Esta é a habilidade que as empresas mais pedem: explicar tecnologia para quem não é da área. Use comparações do dia a dia. {Think of it as} quer dizer pense nisso como. E termine perguntando: {does that make sense}?",
+  "frases": [
+   [
+    "Let me explain how it works.",
+    "Deixe-me explicar como funciona."
+   ],
+   [
+    "In simple terms, it's a digital checklist.",
+    "Em termos simples, é uma lista de verificação digital."
+   ],
+   [
+    "Think of it as a notebook in your pocket.",
+    "Pense nisso como um caderno no seu bolso."
+   ],
+   [
+    "Basically, the app works offline.",
+    "Basicamente, o app funciona offline."
+   ],
+   [
+    "The data is stored on the phone.",
+    "Os dados ficam armazenados no celular."
+   ],
+   [
+    "When the connection comes back, it syncs automatically.",
+    "Quando a conexão volta, ele sincroniza automaticamente."
+   ],
+   [
+    "The main benefit is speed.",
+    "O principal benefício é a velocidade."
+   ],
+   [
+    "The user doesn't need to do anything.",
+    "O usuário não precisa fazer nada."
+   ],
+   [
+    "There are three steps.",
+    "Há três etapas."
+   ],
+   [
+    "First, second, and finally.",
+    "Primeiro, segundo e por fim."
+   ],
+   [
+    "Does that make sense?",
+    "Faz sentido?"
+   ],
+   [
+    "Let me show you an example.",
+    "Deixe-me mostrar um exemplo."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "I'm not a technical person. What does offline-first mean?",
+    "Não sou da área técnica. O que significa offline-first?"
+   ],
+   [
+    "a",
+    "Good question. In simple terms, the app works without internet.",
+    "Boa pergunta. Em termos simples, o app funciona sem internet."
+   ],
+   [
+    "b",
+    "So where does the data go?",
+    "Então para onde vão os dados?"
+   ],
+   [
+    "a",
+    "The data is stored on the phone. Think of it as a notebook in your pocket.",
+    "Os dados ficam no celular. Pense como um caderno no seu bolso."
+   ],
+   [
+    "b",
+    "And then?",
+    "E depois?"
+   ],
+   [
+    "a",
+    "When the connection comes back, it syncs automatically. Does that make sense?",
+    "Quando a conexão volta, sincroniza sozinho. Faz sentido?"
+   ]
+  ]
+ },
+ {
+  "id": "a15",
+  "nivel": "Intermediário",
+  "titulo": "Aula 15 — Conversa com cliente: entendendo a necessidade",
+  "titulo_en": "Lesson 15 — Client call: gathering requirements",
+  "explicacao": "Antes de construir qualquer coisa, você precisa entender o que o cliente quer. Quem pergunta bem, conduz a conversa. {Pain points} são as dores, as maiores dificuldades do cliente. {Must-have} é essencial. {Nice-to-have} é desejável.",
+  "frases": [
+   [
+    "What problem are you trying to solve?",
+    "Que problema vocês estão tentando resolver?"
+   ],
+   [
+    "Who are the main users?",
+    "Quem são os principais usuários?"
+   ],
+   [
+    "Can you walk me through your current process?",
+    "Pode me explicar passo a passo o processo atual?"
+   ],
+   [
+    "What's working well today?",
+    "O que está funcionando bem hoje?"
+   ],
+   [
+    "What are the biggest pain points?",
+    "Quais são as maiores dificuldades?"
+   ],
+   [
+    "What does success look like for you?",
+    "Como seria o sucesso para vocês?"
+   ],
+   [
+    "Do you have a budget in mind?",
+    "Vocês têm um orçamento em mente?"
+   ],
+   [
+    "When do you need it?",
+    "Para quando vocês precisam?"
+   ],
+   [
+    "Is this a must-have or a nice-to-have?",
+    "Isso é essencial ou desejável?"
+   ],
+   [
+    "Let me make sure I got this right.",
+    "Deixe-me confirmar se entendi certo."
+   ],
+   [
+    "I'll put this in writing and send it to you.",
+    "Vou colocar isso por escrito e te enviar."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Thanks for your time today. What problem are you trying to solve?",
+    "Obrigado pelo seu tempo. Que problema vocês querem resolver?"
+   ],
+   [
+    "b",
+    "Our safety inspections are on paper, and we lose a lot of information.",
+    "Nossas inspeções de segurança são em papel e perdemos muita informação."
+   ],
+   [
+    "a",
+    "I see. Who are the main users?",
+    "Entendo. Quem são os principais usuários?"
+   ],
+   [
+    "b",
+    "The safety technicians and the supervisors.",
+    "Os técnicos de segurança e os supervisores."
+   ],
+   [
+    "a",
+    "What does success look like for you?",
+    "Como seria o sucesso para vocês?"
+   ],
+   [
+    "b",
+    "All inspections on the phone, with reports in real time.",
+    "Todas as inspeções no celular, com relatórios em tempo real."
+   ],
+   [
+    "a",
+    "Let me make sure I got this right: digital inspections, with real-time reports. I'll put this in writing and send it to you today.",
+    "Deixe-me confirmar: inspeções digitais, com relatórios em tempo real. Vou colocar por escrito e te envio hoje."
+   ]
+  ]
+ },
+ {
+  "id": "a16",
+  "nivel": "Intermediário",
+  "titulo": "Aula 16 — E-mails e mensagens",
+  "titulo_en": "Lesson 16 — Emails and messages",
+  "explicacao": "Muito do inglês no trabalho é escrito. Mas aprender essas frases de ouvido faz você escrever sem pensar. Estas são as frases que abrem e fecham quase todo e-mail profissional.",
+  "frases": [
+   [
+    "I hope you're doing well.",
+    "Espero que esteja bem."
+   ],
+   [
+    "I'm writing to follow up on our meeting.",
+    "Escrevo para dar seguimento à nossa reunião."
+   ],
+   [
+    "As discussed in our meeting...",
+    "Conforme conversamos na reunião..."
+   ],
+   [
+    "Please find attached the report.",
+    "Segue em anexo o relatório."
+   ],
+   [
+    "Could you please confirm the date?",
+    "Poderia, por favor, confirmar a data?"
+   ],
+   [
+    "Let me know if you have any questions.",
+    "Me avise se tiver alguma dúvida."
+   ],
+   [
+    "Looking forward to hearing from you.",
+    "Aguardo seu retorno."
+   ],
+   [
+    "Thanks in advance.",
+    "Desde já, obrigado."
+   ],
+   [
+    "Sorry for the delay in getting back to you.",
+    "Desculpe a demora em responder."
+   ],
+   [
+    "Just a quick reminder.",
+    "Só um lembrete rápido."
+   ],
+   [
+    "Best regards.",
+    "Atenciosamente."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Hi John, I hope you're doing well.",
+    "Oi John, espero que esteja bem."
+   ],
+   [
+    "a",
+    "As discussed in our meeting, please find attached the project proposal.",
+    "Conforme conversamos na reunião, segue em anexo a proposta do projeto."
+   ],
+   [
+    "a",
+    "Could you please confirm the start date by Friday?",
+    "Poderia, por favor, confirmar a data de início até sexta?"
+   ],
+   [
+    "a",
+    "Let me know if you have any questions.",
+    "Me avise se tiver alguma dúvida."
+   ],
+   [
+    "a",
+    "Looking forward to hearing from you. Best regards, Marlon.",
+    "Aguardo seu retorno. Atenciosamente, Marlon."
+   ]
+  ]
+ },
+ {
+  "id": "a17",
+  "nivel": "Avançado",
+  "titulo": "Aula 17 — Apresentação de projeto: a abertura",
+  "titulo_en": "Lesson 17 — Presenting a project: the opening",
+  "explicacao": "Você chegou ao nível avançado. Agora vai apresentar projetos. Toda boa apresentação começa igual: agradecer, dizer o tema, mostrar o caminho em três partes e dizer quanto tempo vai levar. Quem ouve fica tranquilo porque sabe para onde você vai.",
+  "frases": [
+   [
+    "Good afternoon, and thank you for being here.",
+    "Boa tarde, e obrigado por estarem aqui."
+   ],
+   [
+    "Today, I'm going to present our new safety app.",
+    "Hoje, vou apresentar nosso novo app de segurança."
+   ],
+   [
+    "My presentation is divided into three parts.",
+    "Minha apresentação está dividida em três partes."
+   ],
+   [
+    "First, I'll talk about the problem.",
+    "Primeiro, vou falar sobre o problema."
+   ],
+   [
+    "Then, I'll show you our solution.",
+    "Depois, vou mostrar nossa solução."
+   ],
+   [
+    "Finally, we'll look at the results and next steps.",
+    "Por fim, veremos os resultados e os próximos passos."
+   ],
+   [
+    "It'll take about fifteen minutes.",
+    "Vai levar cerca de quinze minutos."
+   ],
+   [
+    "Feel free to interrupt me with questions.",
+    "Fiquem à vontade para me interromper com perguntas."
+   ],
+   [
+    "I'll take questions at the end.",
+    "Vou responder às perguntas no final."
+   ],
+   [
+    "Let me start with a question.",
+    "Deixe-me começar com uma pergunta."
+   ],
+   [
+    "How many of you have ever lost an important document?",
+    "Quantos de vocês já perderam um documento importante?"
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Good afternoon, and thank you for being here.",
+    "Boa tarde, e obrigado por estarem aqui."
+   ],
+   [
+    "a",
+    "Today, I'm going to present a mobile app for workplace safety.",
+    "Hoje, vou apresentar um aplicativo de segurança do trabalho."
+   ],
+   [
+    "a",
+    "My presentation is divided into three parts.",
+    "Minha apresentação está dividida em três partes."
+   ],
+   [
+    "a",
+    "First, I'll talk about the problem. Then, I'll show you the solution. Finally, we'll look at the results.",
+    "Primeiro, o problema. Depois, a solução. Por fim, os resultados."
+   ],
+   [
+    "a",
+    "It'll take about fifteen minutes, and I'll take questions at the end.",
+    "Vai levar uns quinze minutos, e respondo perguntas no final."
+   ],
+   [
+    "a",
+    "Let me start with a question: how many inspection reports were lost last year?",
+    "Deixe-me começar com uma pergunta: quantos relatórios de inspeção foram perdidos no ano passado?"
+   ]
+  ]
+ },
+ {
+  "id": "a18",
+  "nivel": "Avançado",
+  "titulo": "Aula 18 — Apresentação: dados, demonstração e fechamento",
+  "titulo_en": "Lesson 18 — Presenting: data, demo and closing",
+  "explicacao": "Agora o meio e o fim da apresentação. Mostre os números, faça uma demonstração curta e diga o que aquilo significa para quem está ouvindo. {What this means for you} é a frase mais poderosa de uma apresentação.",
+  "frases": [
+   [
+    "Let's move on to the solution.",
+    "Vamos passar para a solução."
+   ],
+   [
+    "As you can see on this slide...",
+    "Como vocês podem ver neste slide..."
+   ],
+   [
+    "This chart shows the results.",
+    "Este gráfico mostra os resultados."
+   ],
+   [
+    "The numbers speak for themselves.",
+    "Os números falam por si."
+   ],
+   [
+    "We reduced the time by forty percent.",
+    "Reduzimos o tempo em quarenta por cento."
+   ],
+   [
+    "Let me give you a quick demo.",
+    "Deixe-me fazer uma demonstração rápida."
+   ],
+   [
+    "Here, the technician opens the inspection.",
+    "Aqui, o técnico abre a inspeção."
+   ],
+   [
+    "This is the key point.",
+    "Este é o ponto-chave."
+   ],
+   [
+    "What this means for you is less paperwork.",
+    "O que isso significa para vocês é menos papelada."
+   ],
+   [
+    "To wrap up...",
+    "Para encerrar..."
+   ],
+   [
+    "Thank you for your attention.",
+    "Obrigado pela atenção."
+   ],
+   [
+    "I'm happy to take any questions.",
+    "Fico feliz em responder perguntas."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Let's move on to the solution. As you can see on this slide, everything happens on the phone.",
+    "Vamos à solução. Como vocês veem neste slide, tudo acontece no celular."
+   ],
+   [
+    "a",
+    "Let me give you a quick demo. Here, the technician opens the inspection and takes a photo.",
+    "Uma demonstração rápida. Aqui o técnico abre a inspeção e tira uma foto."
+   ],
+   [
+    "a",
+    "The report is generated automatically.",
+    "O relatório é gerado automaticamente."
+   ],
+   [
+    "a",
+    "This chart shows the results after three months. We reduced inspection time by forty percent.",
+    "Este gráfico mostra os resultados após três meses. Reduzimos o tempo de inspeção em quarenta por cento."
+   ],
+   [
+    "a",
+    "What this means for you is less paperwork and more time in the field.",
+    "Para vocês, isso significa menos papelada e mais tempo em campo."
+   ],
+   [
+    "a",
+    "To wrap up: faster, safer, and fully digital. Thank you for your attention. I'm happy to take any questions.",
+    "Para encerrar: mais rápido, mais seguro e totalmente digital. Obrigado pela atenção. Fico feliz em responder perguntas."
+   ]
+  ]
+ },
+ {
+  "id": "a19",
+  "nivel": "Avançado",
+  "titulo": "Aula 19 — Respondendo perguntas difíceis",
+  "titulo_en": "Lesson 19 — Handling tough questions",
+  "explicacao": "Perguntas difíceis não são ataques. São interesse. A técnica é: agradecer a pergunta, ganhar tempo confirmando o que foi perguntado, responder curto, e se não souber, prometer o retorno. Nunca invente uma resposta.",
+  "frases": [
+   [
+    "That's a great question.",
+    "Essa é uma ótima pergunta."
+   ],
+   [
+    "Thanks for raising that.",
+    "Obrigado por levantar esse ponto."
+   ],
+   [
+    "If I understand correctly, you're asking about costs.",
+    "Se entendi bem, você está perguntando sobre custos."
+   ],
+   [
+    "I don't have that information right now.",
+    "Não tenho essa informação agora."
+   ],
+   [
+    "I'll find out and get back to you.",
+    "Vou descobrir e te dou retorno."
+   ],
+   [
+    "Let me be honest with you.",
+    "Deixe-me ser honesto com você."
+   ],
+   [
+    "That's outside the scope of this project.",
+    "Isso está fora do escopo deste projeto."
+   ],
+   [
+    "It depends on a few factors.",
+    "Depende de alguns fatores."
+   ],
+   [
+    "The short answer is yes.",
+    "A resposta curta é sim."
+   ],
+   [
+    "I understand your concern.",
+    "Entendo sua preocupação."
+   ],
+   [
+    "Does that answer your question?",
+    "Isso responde à sua pergunta?"
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "What happens if the phone is lost? Is the data safe?",
+    "E se o celular for perdido? Os dados estão seguros?"
+   ],
+   [
+    "a",
+    "That's a great question. I understand your concern.",
+    "Ótima pergunta. Entendo sua preocupação."
+   ],
+   [
+    "a",
+    "The short answer is yes. The data is encrypted and backed up in the cloud.",
+    "A resposta curta é sim. Os dados são criptografados e têm cópia na nuvem."
+   ],
+   [
+    "b",
+    "And how much will it cost per user?",
+    "E quanto vai custar por usuário?"
+   ],
+   [
+    "a",
+    "It depends on a few factors. I don't have the exact number right now, but I'll find out and get back to you tomorrow.",
+    "Depende de alguns fatores. Não tenho o número exato agora, mas vou descobrir e te retorno amanhã."
+   ],
+   [
+    "b",
+    "Okay, thank you.",
+    "Ok, obrigado."
+   ],
+   [
+    "a",
+    "Does that answer your question?",
+    "Isso responde à sua pergunta?"
+   ]
+  ]
+ },
+ {
+  "id": "a20",
+  "nivel": "Avançado",
+  "titulo": "Aula 20 — Negociação",
+  "titulo_en": "Lesson 20 — Negotiation",
+  "explicacao": "Negociar em inglês é usar frases suaves. Em vez de não, diga {What if}, e se. Em vez de impor, proponha. A meta é a solução que funciona para os dois lados: {works for both sides}.",
+  "frases": [
+   [
+    "What are your expectations?",
+    "Quais são as suas expectativas?"
+   ],
+   [
+    "What's your budget for this project?",
+    "Qual é o orçamento de vocês para este projeto?"
+   ],
+   [
+    "That's higher than we expected.",
+    "Isso está acima do que esperávamos."
+   ],
+   [
+    "Is there any flexibility on the price?",
+    "Há alguma flexibilidade no preço?"
+   ],
+   [
+    "We could offer a discount if you sign this month.",
+    "Poderíamos oferecer um desconto se vocês assinarem este mês."
+   ],
+   [
+    "What if we split the project into phases?",
+    "E se dividíssemos o projeto em fases?"
+   ],
+   [
+    "That works for us.",
+    "Isso funciona para nós."
+   ],
+   [
+    "I need to check with my team.",
+    "Preciso verificar com minha equipe."
+   ],
+   [
+    "Let's find a solution that works for both sides.",
+    "Vamos encontrar uma solução que funcione para os dois lados."
+   ],
+   [
+    "That's our final offer.",
+    "Essa é nossa oferta final."
+   ],
+   [
+    "I think we have a deal.",
+    "Acho que temos um acordo."
+   ],
+   [
+    "Let's put it in the contract.",
+    "Vamos colocar isso no contrato."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "Your proposal is higher than we expected. Is there any flexibility on the price?",
+    "Sua proposta está acima do esperado. Há flexibilidade no preço?"
+   ],
+   [
+    "a",
+    "I understand. Let's find a solution that works for both sides.",
+    "Entendo. Vamos achar uma solução boa para os dois lados."
+   ],
+   [
+    "a",
+    "What if we split the project into phases? You pay for phase one now, and phase two after the results.",
+    "E se dividirmos em fases? Vocês pagam a fase um agora e a fase dois depois dos resultados."
+   ],
+   [
+    "b",
+    "That could work. Can you give us a discount on phase two?",
+    "Pode funcionar. Podem dar desconto na fase dois?"
+   ],
+   [
+    "a",
+    "We could offer ten percent if you sign for both phases this month.",
+    "Podemos oferecer dez por cento se assinarem as duas fases este mês."
+   ],
+   [
+    "b",
+    "I need to check with my team, but I think we have a deal.",
+    "Preciso verificar com minha equipe, mas acho que temos um acordo."
+   ]
+  ]
+ },
+ {
+  "id": "a21",
+  "nivel": "Avançado",
+  "titulo": "Aula 21 — Dando e recebendo feedback",
+  "titulo_en": "Lesson 21 — Giving and receiving feedback",
+  "explicacao": "Feedback em inglês segue um padrão: primeiro o elogio verdadeiro, depois um ponto de melhora, depois o incentivo. E quando você recebe, agradeça, mesmo se não concordar na hora.",
+  "frases": [
+   [
+    "Can I give you some feedback?",
+    "Posso te dar um feedback?"
+   ],
+   [
+    "You did a great job on the demo.",
+    "Você fez um ótimo trabalho na demonstração."
+   ],
+   [
+    "One thing you could improve is the timing.",
+    "Uma coisa que você poderia melhorar é o tempo."
+   ],
+   [
+    "Next time, try to keep it shorter.",
+    "Da próxima vez, tente ser mais breve."
+   ],
+   [
+    "How do you think it went?",
+    "Como você acha que foi?"
+   ],
+   [
+    "I appreciate the feedback.",
+    "Agradeço o feedback."
+   ],
+   [
+    "That's helpful, thank you.",
+    "Isso é útil, obrigado."
+   ],
+   [
+    "I'll work on that.",
+    "Vou trabalhar nisso."
+   ],
+   [
+    "What could I do better?",
+    "O que eu poderia fazer melhor?"
+   ],
+   [
+    "Thanks for being open about it.",
+    "Obrigado por ser franco sobre isso."
+   ],
+   [
+    "Keep up the good work.",
+    "Continue com o bom trabalho."
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "Marlon, can I give you some feedback on the presentation?",
+    "Marlon, posso te dar um feedback sobre a apresentação?"
+   ],
+   [
+    "a",
+    "Sure. How do you think it went?",
+    "Claro. Como você acha que foi?"
+   ],
+   [
+    "b",
+    "You did a great job on the demo. It was very clear.",
+    "Você foi muito bem na demonstração. Ficou muito clara."
+   ],
+   [
+    "b",
+    "One thing you could improve is the time. Next time, try to keep it under fifteen minutes.",
+    "Uma coisa a melhorar é o tempo. Da próxima vez, tente ficar abaixo de quinze minutos."
+   ],
+   [
+    "a",
+    "That's helpful, thank you. I'll work on that.",
+    "Isso ajuda, obrigado. Vou trabalhar nisso."
+   ],
+   [
+    "b",
+    "Keep up the good work.",
+    "Continue com o bom trabalho."
+   ]
+  ]
+ },
+ {
+  "id": "a22",
+  "nivel": "Avançado",
+  "titulo": "Aula 22 — Liderando a chamada com o cliente",
+  "titulo_en": "Lesson 22 — Leading a client call",
+  "explicacao": "Quem lidera a chamada abre, mantém o foco e, principalmente, fecha com próximos passos claros: quem faz o quê e até quando. {Let's park that} quer dizer vamos deixar isso estacionado, para depois.",
+  "frases": [
+   [
+    "Thanks for joining. Let's do a quick round of introductions.",
+    "Obrigado por participar. Vamos fazer uma rodada rápida de apresentações."
+   ],
+   [
+    "Before we start, let me confirm the agenda.",
+    "Antes de começar, deixe-me confirmar a pauta."
+   ],
+   [
+    "I'd like to hear your thoughts.",
+    "Gostaria de ouvir o que vocês pensam."
+   ],
+   [
+    "Let's go back to the main point.",
+    "Vamos voltar ao ponto principal."
+   ],
+   [
+    "Let's park that for now.",
+    "Vamos deixar isso para depois."
+   ],
+   [
+    "Let me recap what we agreed on.",
+    "Deixe-me recapitular o que combinamos."
+   ],
+   [
+    "Here are the next steps.",
+    "Aqui estão os próximos passos."
+   ],
+   [
+    "I'll send you the proposal by Friday.",
+    "Vou te enviar a proposta até sexta."
+   ],
+   [
+    "Your team will send us the access.",
+    "Sua equipe vai nos enviar os acessos."
+   ],
+   [
+    "Who's the point of contact on your side?",
+    "Quem é o ponto de contato do lado de vocês?"
+   ],
+   [
+    "Let's schedule a follow-up meeting.",
+    "Vamos agendar uma reunião de acompanhamento."
+   ],
+   [
+    "Is there anything else we should discuss?",
+    "Há mais alguma coisa que devemos discutir?"
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Before we finish, let me recap what we agreed on.",
+    "Antes de terminar, deixe-me recapitular o que combinamos."
+   ],
+   [
+    "a",
+    "First, we'll start with the inspection module. Second, the go-live is in March.",
+    "Primeiro, começamos pelo módulo de inspeções. Segundo, a entrada em produção é em março."
+   ],
+   [
+    "a",
+    "Here are the next steps. I'll send you the proposal by Friday, and your team will send us the server access.",
+    "Os próximos passos: envio a proposta até sexta, e sua equipe nos manda o acesso ao servidor."
+   ],
+   [
+    "b",
+    "Sounds good. I'll be the point of contact on our side.",
+    "Combinado. Eu serei o ponto de contato do nosso lado."
+   ],
+   [
+    "a",
+    "Perfect. Let's schedule a follow-up meeting next week. Is there anything else we should discuss?",
+    "Perfeito. Vamos marcar um acompanhamento semana que vem. Mais alguma coisa a discutir?"
+   ],
+   [
+    "b",
+    "No, I think we covered everything. Thank you, Marlon.",
+    "Não, acho que cobrimos tudo. Obrigado, Marlon."
+   ]
+  ]
+ },
+ {
+  "id": "a23",
+  "nivel": "Avançado",
+  "titulo": "Aula 23 — Entrevista de emprego",
+  "titulo_en": "Lesson 23 — Job interview",
+  "explicacao": "Esta aula prepara você para entrevistas em inglês, como a da vaga que você está aplicando. Responda curto, com exemplos reais. E sempre tenha uma pergunta para fazer no final. Isso mostra interesse.",
+  "frases": [
+   [
+    "Tell me about yourself.",
+    "Fale sobre você."
+   ],
+   [
+    "Why do you want to work here?",
+    "Por que você quer trabalhar aqui?"
+   ],
+   [
+    "What are your strengths?",
+    "Quais são seus pontos fortes?"
+   ],
+   [
+    "What's your biggest weakness?",
+    "Qual é sua maior fraqueza?"
+   ],
+   [
+    "Tell me about a challenge you faced.",
+    "Fale sobre um desafio que você enfrentou."
+   ],
+   [
+    "I'm a fast learner.",
+    "Aprendo rápido."
+   ],
+   [
+    "I work well under pressure.",
+    "Trabalho bem sob pressão."
+   ],
+   [
+    "I'm currently improving my English.",
+    "Estou aprimorando meu inglês."
+   ],
+   [
+    "I'm looking for a new challenge.",
+    "Estou em busca de um novo desafio."
+   ],
+   [
+    "Where do you see yourself in five years?",
+    "Onde você se vê daqui a cinco anos?"
+   ],
+   [
+    "Do you have any questions for us?",
+    "Você tem alguma pergunta para nós?"
+   ],
+   [
+    "What does a typical day look like in this role?",
+    "Como é um dia típico nesta função?"
+   ]
+  ],
+  "conversa": [
+   [
+    "b",
+    "Tell me about yourself.",
+    "Fale sobre você."
+   ],
+   [
+    "a",
+    "I'm a Full Stack developer from Brazil. I build web apps from idea to production.",
+    "Sou desenvolvedor Full Stack do Brasil. Construo aplicações web da ideia até a produção."
+   ],
+   [
+    "b",
+    "What's your biggest strength?",
+    "Qual é o seu maior ponto forte?"
+   ],
+   [
+    "a",
+    "Ownership. I take care of my projects from start to finish, and I work well under pressure.",
+    "Responsabilidade. Cuido dos meus projetos do início ao fim e trabalho bem sob pressão."
+   ],
+   [
+    "b",
+    "And your biggest weakness?",
+    "E sua maior fraqueza?"
+   ],
+   [
+    "a",
+    "My spoken English is still improving, so I practice every day. I'm a fast learner.",
+    "Meu inglês falado ainda está melhorando, então pratico todo dia. Aprendo rápido."
+   ],
+   [
+    "b",
+    "Do you have any questions for us?",
+    "Você tem alguma pergunta para nós?"
+   ],
+   [
+    "a",
+    "Yes. What does a typical day look like in this role?",
+    "Sim. Como é um dia típico nesta função?"
+   ]
+  ]
+ },
+ {
+  "id": "a24",
+  "nivel": "Avançado",
+  "titulo": "Aula 24 — Seu pitch pessoal",
+  "titulo_en": "Lesson 24 — Your personal pitch",
+  "explicacao": "Última aula. Aqui está a sua apresentação pessoal completa, em inglês. Ouça até decorar. Ela serve para entrevistas, reuniões e para começar qualquer chamada com confiança. Quando conseguir falar inteira, sem pausa, você está pronto.",
+  "frases": [
+   [
+    "My name is Marlon Myaggy.",
+    "Meu nome é Marlon Myaggy."
+   ],
+   [
+    "I'm a Full Stack developer based in Brazil.",
+    "Sou desenvolvedor Full Stack, baseado no Brasil."
+   ],
+   [
+    "I'm finishing my degree in Systems Analysis and Development.",
+    "Estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas."
+   ],
+   [
+    "I also work as an Occupational Safety Technician.",
+    "Também trabalho como Técnico em Segurança do Trabalho."
+   ],
+   [
+    "I build apps that solve real problems.",
+    "Construo apps que resolvem problemas reais."
+   ],
+   [
+    "For example, I built an offline-first safety app for my company.",
+    "Por exemplo, construí um app de segurança offline-first para minha empresa."
+   ],
+   [
+    "I also build accessible learning apps for blind students.",
+    "Também construo apps de estudo acessíveis para estudantes cegos."
+   ],
+   [
+    "I prefer open-source tools that are robust and easy to maintain.",
+    "Prefiro ferramentas de código aberto robustas e fáceis de manter."
+   ],
+   [
+    "I'm used to explaining technical things to non-technical people.",
+    "Estou acostumado a explicar coisas técnicas para pessoas leigas."
+   ],
+   [
+    "I'm looking for a team where I can grow and add value.",
+    "Busco uma equipe onde eu possa crescer e agregar valor."
+   ]
+  ],
+  "conversa": [
+   [
+    "a",
+    "Hi, my name is Marlon Myaggy. I'm a Full Stack developer based in Brazil.",
+    "Olá, meu nome é Marlon Myaggy. Sou desenvolvedor Full Stack, baseado no Brasil."
+   ],
+   [
+    "a",
+    "I'm finishing my degree in Systems Analysis and Development, and I also work as an Occupational Safety Technician.",
+    "Estou concluindo Análise e Desenvolvimento de Sistemas e também trabalho como Técnico em Segurança do Trabalho."
+   ],
+   [
+    "a",
+    "I build apps that solve real problems. For example, I built an offline-first safety app for my company, and accessible learning apps for blind students.",
+    "Construo apps que resolvem problemas reais. Por exemplo, um app de segurança offline-first para minha empresa e apps de estudo acessíveis para estudantes cegos."
+   ],
+   [
+    "a",
+    "I'm used to explaining technical things to non-technical people, and I work well under pressure.",
+    "Estou acostumado a explicar coisas técnicas para leigos e trabalho bem sob pressão."
+   ],
+   [
+    "a",
+    "I'm looking for a team where I can grow and add value. Thank you.",
+    "Busco uma equipe onde eu possa crescer e agregar valor. Obrigado."
+   ]
+  ]
+ }
+]
